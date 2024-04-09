@@ -34,7 +34,4 @@ In addition to KPIs, I wanted to visualize various aspects of our pizza sales da
    - Calculated key performance indicators (KPIs) using DAX formulas.
 
 5. **Chart Creation in Power BI**:
-   - Created relevant and insightful charts to visualize the data as per the requirements stated.
-     
-## Conclusion
-The Pizza Sales Dashboard provides a comprehensive overview of our business performance. By analyzing key metrics and visualizing trends, I can make informed decisions to drive growth and improve efficiency. Enjoy exploring the dashboard and discovering valuable insights into our pizza sales data!
+   - Created relevant and insightful charts to visualize the data as per the requirements stated.S
