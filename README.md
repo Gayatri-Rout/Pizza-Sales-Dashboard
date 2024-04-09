@@ -3,7 +3,9 @@
 Welcome to my Pizza Sales Dashboard project! This document serves as a guide to understanding the setup, data analysis, and visualization techniques used in this project.
 
 ### Problem Statement
-For this project, I aimed to analyze pizza sales data to gain insights into business performance. The goal was to calculate key performance indicators (KPIs) and visualize trends using Power BI.
+For this project, I aimed to analyze pizza sales data obtained from Kaggle to gain insights into business performance. The goal was to calculate key performance indicators (KPIs) and visualize trends using Power BI.
+
+Link to Dataset: https://www.kaggle.com/datasets/nextmillionaire/pizza-sales-dataset
 
 ### KPI's Requirement
 To assess our business performance, I identified the following KPIs:
