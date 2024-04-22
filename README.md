@@ -8,7 +8,7 @@ For this project, I aimed to analyze pizza sales data obtained from Kaggle to ga
 Link to Dataset: https://www.kaggle.com/datasets/nextmillionaire/pizza-sales-dataset
 
 ### KPI's Requirement
-To assess our business performance, I identified the following KPIs:
+To assess the business performance, I identified the following KPIs:
 1. **Total Revenue**: Sum of the total price of all pizza orders.
 2. **Average Order Value**: Average amount spent per order.
 3. **Total Pizzas Sold**: Sum of the quantities of all pizzas sold.
@@ -16,7 +16,7 @@ To assess our business performance, I identified the following KPIs:
 5. **Average Pizzas Per Order**: Average number of pizzas sold per order.
 
 ### Charts Requirement
-In addition to KPIs, I wanted to visualize various aspects of our pizza sales data. The following charts were identified for this purpose:
+In addition to KPIs, I wanted to visualize various aspects of the pizza sales data. The following charts were identified for this purpose:
 1. **Daily Trend for Total Orders**: Bar chart displaying the daily trend of total orders over a specific time period.
 2. **Monthly Trend for Total Orders**: Line chart illustrating the hourly trend of total orders throughout the day.
 3. **Percentage of Sales by Pizza Category**: Pie chart showing the distribution of sales across different pizza categories.
@@ -36,4 +36,4 @@ In addition to KPIs, I wanted to visualize various aspects of our pizza sales da
    - Calculated key performance indicators (KPIs) using DAX formulas.
 
 5. **Chart Creation in Power BI**:
-   - Created relevant and insightful charts to visualize the data as per the requirements stated.S
+   - Created relevant and insightful charts to visualize the data as per the requirements stated.
